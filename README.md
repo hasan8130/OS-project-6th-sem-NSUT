@@ -1,7 +1,6 @@
 # OS project:
 
---> demo video:
-
+ demo video:
 Click [here](https://www.youtube.com/watch?v=DVJmYapMPGo) for the video presentation with app demo.
 
 
