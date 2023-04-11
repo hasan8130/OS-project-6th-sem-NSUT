@@ -10,6 +10,7 @@ ARCore is Google's platform for building augmented reality experiences. Using di
 ### Sample images : 
 <img width="200" height="400" alt="Tech Stack Diagram (Copy) (1)" src="https://user-images.githubusercontent.com/76277112/231264557-17631d7a-ce32-4c3d-be90-be0c5d87639f.jpg">
 
+<img width="200" height="400" alt="Tech Stack Diagram (Copy) (1)" src="https://user-images.githubusercontent.com/76277112/231265804-88e80899-948a-4c71-9e85-667d98f2743c.jpg">
 
 ## Image based Search
 
