@@ -4,7 +4,11 @@
 Click [here](https://www.youtube.com/watch?v=DVJmYapMPGo) for the video presentation with app demo.
 
 
-<img width="400" alt="Tech Stack Diagram (Copy) (1)" src="https://user-images.githubusercontent.com/76277112/231263593-31251f11-e00e-486b-8762-4106b3ea7023.png">
+<img width="400" height="300" alt="Tech Stack Diagram (Copy) (1)" src="https://user-images.githubusercontent.com/76277112/231263593-31251f11-e00e-486b-8762-4106b3ea7023.png">
+
+Datset used -->
+https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
+
 
 ## AR APP
 
