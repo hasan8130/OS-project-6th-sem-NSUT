@@ -1,6 +1,6 @@
 # OS project:
 
- demo video:
+ Demo video:
 Click [here](https://www.youtube.com/watch?v=DVJmYapMPGo) for the video presentation with app demo.
 
 
@@ -29,11 +29,15 @@ Image-based query search is an emerging technology that can revolutionize the e-
 
 Using the application:
 
-*clone the repository and import in VS code . Run the following commands in your terminal.
+clone the repository and import in VS code . Run the following commands in your terminal.
+
 git clone https://github.com/hasan8130/OS-project-6th-sem-NSUT.git
+
 pip install -r requirements.txt
 
 Simple image-based image search engine using Keras + Flask. You can launch the search engine just by running the following python scripts.
-*offline.py
-*server.py: 
+
+offline.py
+
+server.py: 
 
