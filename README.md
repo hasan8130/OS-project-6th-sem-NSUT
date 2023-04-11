@@ -1,6 +1,6 @@
 # OS project:
 
-<img width="1694" alt="Tech Stack Diagram (Copy) (1)" src="https://user-images.githubusercontent.com/76277112/231263593-31251f11-e00e-486b-8762-4106b3ea7023.png">
+<img width="600" alt="Tech Stack Diagram (Copy) (1)" src="https://user-images.githubusercontent.com/76277112/231263593-31251f11-e00e-486b-8762-4106b3ea7023.png">
 
 ## AR APP
 
