@@ -1,5 +1,8 @@
 # OS project:
 
+**image demo:
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/DVJmYapMPGo/sddefault.jpg)](https://www.youtube.com/watch?v=DVJmYapMPGo "OS PROJECT")
+
 <img width="600" alt="Tech Stack Diagram (Copy) (1)" src="https://user-images.githubusercontent.com/76277112/231263593-31251f11-e00e-486b-8762-4106b3ea7023.png">
 
 ## AR APP
