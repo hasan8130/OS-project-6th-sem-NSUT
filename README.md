@@ -17,8 +17,11 @@ ARCore is Google's platform for building augmented reality experiences. Using di
 <img width="200" height="400" alt="Tech Stack Diagram (Copy) (1)" src="https://user-images.githubusercontent.com/76277112/231265804-88e80899-948a-4c71-9e85-667d98f2743c.jpg">
 
 Using the  application :
-*clone the repository and import in Android Studio to see the code + build the APK.
-git clone https://github.com/hasan8130/OS-project-6th-sem-NSUT.git
+
+clone the repository and import in Android Studio to see the code + build the APK.
+
+git clone
+https://github.com/hasan8130/OS-project-6th-sem-NSUT.git
 
 ## Image based Search
 
@@ -31,9 +34,11 @@ Using the application:
 
 clone the repository and import in VS code . Run the following commands in your terminal.
 
-git clone https://github.com/hasan8130/OS-project-6th-sem-NSUT.git
+git clone
+https://github.com/hasan8130/OS-project-6th-sem-NSUT.git
 
 pip install -r requirements.txt
+
  You can start the flask application by running the following python scripts.
 
 offline.py
