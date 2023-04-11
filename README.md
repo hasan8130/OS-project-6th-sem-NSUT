@@ -34,8 +34,7 @@ clone the repository and import in VS code . Run the following commands in your 
 git clone https://github.com/hasan8130/OS-project-6th-sem-NSUT.git
 
 pip install -r requirements.txt
-
-Simple image-based image search engine using Keras + Flask. You can launch the search engine just by running the following python scripts.
+ You can start the flask application by running the following python scripts.
 
 offline.py
 
