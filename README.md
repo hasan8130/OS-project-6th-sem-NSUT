@@ -12,8 +12,8 @@ https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
 
 ## AR APP
 
-Using ARcore and screenviewer to help users to interact, place and view the 3d model in the environment.
-ARCore is Google's platform for building augmented reality experiences. Using different APIs, ARCore enables your phone to sense its environment, understand the world and interact with information. Some of the APIs are available across Android and iOS to enable shared AR experiences.
+Users can interact with, position, and observe the 3D model in the surroundings with the aid of ARcore and screenviewer.
+Google's framework for creating augmented reality experiences is called ARCore. Your phone can perceive its surroundings, comprehend the outside world, and interact with information thanks to ARCore, which makes use of many APIs. To enable shared AR experiences, some APIs are accessible on iOS and Android.
 
 ### Sample images : 
 <img width="200" height="400" alt="Tech Stack Diagram (Copy) (1)" src="https://user-images.githubusercontent.com/76277112/231264557-17631d7a-ce32-4c3d-be90-be0c5d87639f.jpg">
@@ -29,7 +29,7 @@ https://github.com/hasan8130/OS-project-6th-sem-NSUT.git
 
 ## Image based Search
 
-Image-based query search is an emerging technology that can revolutionize the e-commerce industry. Traditionally, e-commerce searches have relied on text-based queries, which can be time-consuming and may not accurately capture what the customer is looking for. Image-based search, on the other hand, allows customers to upload an image and find similar products based on visual features such as color, shape, and texture
+A new technology that has the potential to completely transform the e-commerce sector is image-based query search. Text-based queries, which can be time-consuming and may not fully capture what the client is looking for, have traditionally been the mainstay of e-commerce searches. Contrarily, image-based search enables users to upload a picture and identify comparable goods based on visual cues like color, shape, and texture.
 
 
 <img width="400" height="400" alt="Tech Stack Diagram (Copy) (1)" src="https://user-images.githubusercontent.com/76277112/231266269-280678e0-eb82-4ed0-86ab-be5006bdd8c3.jpg">
@@ -43,8 +43,10 @@ https://github.com/hasan8130/OS-project-6th-sem-NSUT.git
 
 pip install -r requirements.txt
 
- You can start the flask application by running the following python scripts.
+ upload the downloaded dataset in your local folder , static/img
 
+ You can start the flask application by running the following python scripts.
+ 
 offline.py
 
 server.py: 
